@@ -1,0 +1,20 @@
+{
+  "1": {
+    "name": "Radha",
+    "password": "Radha@123",
+    "email": "radha@wipro.com",
+    "id": 1
+  },
+  "2": {
+    "name": "Nithesh",
+    "password": "Nithesh@123",
+    "email": "nithesh@wipro.com",
+    "id": 2
+  },
+  "3": {
+    "name": "Atul",
+    "password": "Atul@123",
+    "email": "atul@wipro.com",
+    "id": 3
+  }
+}
